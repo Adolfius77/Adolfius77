@@ -1,7 +1,6 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://images-ext-1.discordapp.net/external/sf5o1yrhdxlwfVh2l_X7eyzRrFz5K7Gbe3RksZ8Vq54/https/media.tenor.com/Cd-LzvFtkrsAAAPo/tung-tung-tung-sahur-brain-rot.mp4" width="30px">&nbsp;***About me***
 
 # Hi there, I'm Adolfo Ortega👋
 
