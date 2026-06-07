@@ -18,7 +18,15 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h4> Languages </h4>
 <span> 
-  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+  <img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/7c0d3a93-d532-4c8c-9269-c571812ce96d" />
+  <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/e62ec070-76fe-44b2-b22c-473ecd6203d9" />
+  <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/3196e6c6-1d5f-4dd9-92bf-69380dfd02df" />
+  <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/bb8848b9-2bed-4887-b609-91af0e6f7205" />
+  <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/6cfe29aa-562e-4587-84eb-9d5a25df618d" />
+
+
+
+
  
 
 
