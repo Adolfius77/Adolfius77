@@ -1,4 +1,4 @@
-<img align="right" width="300" alt="Animated Cyberpunk Unicorn" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
+<img align="right" width="45" alt="Animated Cyberpunk Unicorn" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
 
 # ✨ Hi there, I'm Adolfo Ortega 👋
 
