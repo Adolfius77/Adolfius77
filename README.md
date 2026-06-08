@@ -58,9 +58,9 @@ I am a Software Engineering student based in Mexico, with a strong focus on back
 
 ## 🚀 My best projects
 
-* **Uno Game** Developing networked multiplayer applications using Sockets and the Broker architectural pattern.
+* **Uno Game:** Developing networked multiplayer applications using Sockets and the Broker architectural pattern.
 * **🛒 E-commerce Platforms:** Building robust E-commerce web platforms leveraging Jakarta EE and MVC architecture.
-* **ItsonConnect** Spring boot + JPA + algorithm Byscript for segurity
+* **ItsonConnect:** Spring boot + JPA + algorithm Byscript for segurity
 
 ---
 
