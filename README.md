@@ -1,5 +1,5 @@
 
-<img align="right" width="350" alt="Animated Cyberpunk Unicorn" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
+<img align="right" width="200" alt="Animated Cyberpunk Unicorn" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
 # ✨ Hi there, I'm Adolfo Ortega 👋
 
 I am a Software Engineering student based in Mexico, with a strong focus on backend development, software architecture, and distributed systems. I enjoy transforming complex requirements into clean, scalable, and well-documented code.
