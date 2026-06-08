@@ -15,7 +15,7 @@
 
 I'm a **Software Engineering student** based in **Mexico**, passionate about building scalable and efficient backend systems. My expertise lies in:
 
-- 🏗️ **Software Architecture** - Designing clean, maintainable solutions
+- 🏗️ **Software Architecture** - Designing clean, maintainable solutions, and principles solid
 - 🔗 **Distributed Systems** - Building resilient networked applications
 - 💾 **Backend Development** - Creating robust APIs and services
 - 🛡️ **Security** - Implementing secure authentication and data protection
