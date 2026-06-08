@@ -1,8 +1,8 @@
 
 <img align="right" width="200" alt="Animated Cyberpunk Unicorn" src="https://imgs.search.brave.com/B6Dz71lcaaL_F89l5MKcJomyUeJVS0iZeuhzsPqyysc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Fn/aWYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9mdW5ueS1jYXQt/MTA2LmdpZg.gif">
-# ✨ Hi there, I'm Adolfo Ortega 👋
+✨ Hi there, I'm Adolfo Ortega 👋
 
-I am a Software Engineering student based in Mexico, with a strong focus on backend development, software architecture, and distributed systems. I enjoy transforming complex requirements into clean, scalable, and well-documented code.
+I am a Software Engineering student based in Mexico, with a strong focus on backend development, software architecture, and distributed systems. I enjoy transforming complex requirements into clean, scalable, and well-documented code,and I also handle the solid principles.
 
 
 ## 🛠️ My Skills Include
