@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adolfius77)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-<img width="200" alt="Cyberpunk Developer" src="https://imgs.search.brave.com/B6Dz71lcaaL_F89l5MKcJomyUeJVS0iZeuhzsPqyysc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Fn/aWYuY29tL3dwLWM"/>
+<img width="200" alt="Cyberpunk Developer" src="https://static.klipy.com/ii/d6b0ce929193df3c242ac34b5654d2ce/61/10/CU9VvfON.gif"/>
 
 </div>
 
