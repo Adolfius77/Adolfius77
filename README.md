@@ -4,7 +4,7 @@
 
 I am a Software Engineering student based in Mexico, with a strong focus on backend development, software architecture, and distributed systems. I enjoy transforming complex requirements into clean, scalable, and well-documented code.
 
----
+
 
 ## 🛠️ My Skills Include
 
@@ -65,10 +65,4 @@ I am a Software Engineering student based in Mexico, with a strong focus on back
 
 ---
 
-## Stay Connected 🌐
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/adolfo-ortega/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
-  </a>
-</div>
