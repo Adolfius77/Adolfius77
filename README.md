@@ -1,5 +1,6 @@
 
-<img align="right" width=300px alt="Unicorn" src="https://discord.com/channels/1445661216335724639/1445661217220726908/1513332644904177756" />
+<img align="right" width=300px alt="Unicorn" src="<img width="373" height="498" alt="image" src="https://github.com/user-attachments/assets/1e01b5ef-71ce-4175-b610-7ea7592a8482" />
+" />
 
 
 # Hi there, I'm Adolfo Ortega👋
