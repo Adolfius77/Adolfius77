@@ -99,12 +99,3 @@ Secure connection management and authentication system
 - **Focus:** Security implementation, data protection
 
 ---
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adolfius77&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adolfius77&layout=compact&theme=radical)
-
----
-
