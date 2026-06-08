@@ -1,21 +1,25 @@
-<img align="right" width="300" alt="Unicorn" src="https://static.klipy.com/ii/d6b0ce929193df3c242ac34b5654d2ce/61/10/CU9VvfON.gif">
+<img align="right" width="300" alt="Animated Cyberpunk Unicorn" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
 
-# Hi there, I'm Adolfo Ortega 👋
+# ✨ Hi there, I'm Adolfo Ortega 👋
 
 I am a Software Engineering student based in Mexico, with a strong focus on backend development, software architecture, and distributed systems. I enjoy transforming complex requirements into clean, scalable, and well-documented code.
 
+---
+
 ## 🛠️ My Skills Include
 
-<h4> Languages </h4>
+#### 💻 Languages
+
 <span>
-  <img src ="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
-  <img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
-<h4> Frameworks and Other Skills </h4>
+#### 🚀 Frameworks & Tools
+
 <span>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
@@ -30,26 +34,41 @@ I am a Software Engineering student based in Mexico, with a strong focus on back
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+#### 🗄️ Databases
+
 <span>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> ORMs </h4>
+#### 🔄 ORMs
+
 <span>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </span>
 
-<h4> IDEs </h4>
+#### 🛠️ IDEs
+
 <span>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 
+---
+
 ## 🚀 What I'm working on
-*   Developing networked multiplayer applications using Sockets and the Broker architectural pattern.
-*   Building robust E-commerce web platforms leveraging Jakarta EE and MVC architecture.
-*   Exploring distributed systems, including concepts for air quality monitoring and AI-assisted educational tools.
-```http://googleusercontent.com/image_generation_content/215
+
+* **🎮 Multiplayer Apps:** Developing networked multiplayer applications using Sockets and the Broker architectural pattern.
+* **🛒 E-commerce Platforms:** Building robust E-commerce web platforms leveraging Jakarta EE and MVC architecture.
+* **🌐 Distributed Systems:** Exploring distributed systems, including concepts for air quality monitoring and AI-assisted educational tools.
+
+---
+
+## Stay Connected 🌐
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adolfo-ortega/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
+  </a>
+</div>
