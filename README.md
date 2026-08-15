@@ -1,21 +1,20 @@
-## 💻 Stack Tecnológico y Habilidades
-
-### Lenguajes
-- **Dominio:** .java, .py, .js, .html , .css , .scss
-- **En aprendizaje / Perfeccionando:** .ts
-
-### Frameworks & Tecnologías Core
-- **Backend:** Spring Boot
-- **Frontend:** React, Tailwind CSS
-
-### Bases de Datos
-- **Relacionales:** MySQL
-- **NoSQL:** MongoDB
-
-### Arquitectura e Ingeniería de Software
-- **Patrones de Diseño:** Amplio manejo de patrones para asegurar la reutilización y limpieza del código.
-- **Patrones Arquitectónicos:** 
-  - Experiencia con el patrón **Broker** (implementación para sistemas distribuidos y conexiones como Sockets).
-  - **Arquitectura Orientada a Eventos** (Event-driven architecture).
-
----
+```text
+               -`                 adolfius@ortega
+              .o+`                -------------------
+             `ooo/                OS: .................... Windows / Linux
+            `+oooo:               Role: .................. Software Engineering Student @ ITSON
+           `+oooooo:              Location: .............. Ciudad Obregón, Sonora
+           -+oooooo+:             Experience: ............ POS Chiokore (Real-world system)
+         `/:-:++oooo+:            
+        `/++++/+++++++:           Languages.Core: ........ Java, Python, JS, HTML, CSS, SCSS
+       `/++++++++++++++:          Languages.Learning: .... TypeScript
+      `/+++ooooooooooooo/`        Frameworks: ............ Spring Boot, React, Tailwind CSS
+     ./ooosssso++osssssso+`       Databases: ............. MySQL, MongoDB
+    .oossssso-````/ossssss+`      Architecture: .......... Broker, Event-Driven, MVC
+   -osssssso.      :ssssssso.     
+  :osssssss/        osssso+++.    Contact
+ /ossssssss/        +ssssooo/-    -------------------
+`/ossssso+/:-        -:/+osssso+-  Email: ................. ortega.adolfo.cb37@gmail.com
+`+sso+:-`                 `.-/+oso: LinkedIn: .............. linkedin.com/in/jose-adolfo-ortega-ruiz-29a043368
+`++:.                           `-/+/ GitHub: ................ github.com/Adolfius77
+`:`                                 `-
