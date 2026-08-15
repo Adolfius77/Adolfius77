@@ -1,8 +1,8 @@
 ## 💻 Stack Tecnológico y Habilidades
 
 ### Lenguajes
-- **Dominio:** Java, Python, JavaScript, HTML, CSS, SCSS
-- **En aprendizaje / Perfeccionando:** TypeScript
+- **Dominio:** .java, .py, .js, .html , .css , .scss
+- **En aprendizaje / Perfeccionando:** .ts
 
 ### Frameworks & Tecnologías Core
 - **Backend:** Spring Boot
