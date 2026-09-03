@@ -56,7 +56,7 @@ text, tspan { white-space: pre; }
 <tspan x="380" y="124"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">Estudiante de Ing. de Software</tspan></tspan>
 <tspan x="380" y="145"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">VS Code, IntelliJ IDEA, NetBeans</tspan></tspan>
 <tspan x="380" y="166"><tspan class="dots">.</tspan></tspan>
-<tspan x="380" y="187"><tspan class="dots">. </tspan><tspan class="key">Languages:</tspan><tspan class="dots" id="lang_dots"> ....... </tspan><tspan class="value" id="lang_data">Java, HTML, JavaScript, CSS, Python, SCSS</tspan></tspan>
+<tspan x="380" y="187"><tspan class="dots">. </tspan><tspan class="key">Languages:</tspan><tspan class="dots" id="lang_dots"> ....... </tspan><tspan class="value" id="lang_data">Java, HTML, JavaScript, Python, CSS, SCSS</tspan></tspan>
 <tspan x="380" y="208"><tspan class="dots">. </tspan><tspan class="key">Frameworks:</tspan><tspan class="dots"> ................. </tspan><tspan class="value">Spring Boot, Jakarta EE, React</tspan></tspan>
 <tspan x="380" y="229"><tspan class="dots">. </tspan><tspan class="key">Databases:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">MySQL, MongoDB</tspan></tspan>
 <tspan x="380" y="250"><tspan class="dots">. </tspan><tspan class="key">Tools.DevOps:</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">Git, Docker, Maven</tspan></tspan>
@@ -70,6 +70,6 @@ text, tspan { white-space: pre; }
 <tspan x="380" y="418"><tspan class="head">- GitHub Stats</tspan><tspan class="dots"> ───────────────────────────────────────────────</tspan></tspan>
 <tspan x="380" y="439"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots" id="repo_dots"> ...................... </tspan><tspan class="value" id="repo_data">47</tspan><tspan class="fg"> {Contributed: </tspan><tspan class="value" id="contrib_data">1</tspan><tspan class="fg">} | Stars: </tspan><tspan class="value" id="star_data">7</tspan></tspan>
 <tspan x="380" y="460"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots" id="commit_dots"> ................................ </tspan><tspan class="value" id="commit_data">777</tspan><tspan class="fg"> | Followers: </tspan><tspan class="value" id="follower_data">5</tspan></tspan>
-<tspan x="380" y="481"><tspan class="dots">. </tspan><tspan class="key">Lines of Code:</tspan><tspan class="dots" id="loc_dots"> ......... </tspan><tspan class="value" id="loc_data">861,829</tspan><tspan class="fg"> ( </tspan><tspan class="add" id="loc_add">1,370,678++</tspan><tspan class="fg">,  </tspan><tspan class="del" id="loc_del">508,849--</tspan><tspan class="fg"> )</tspan></tspan>
+<tspan x="380" y="481"><tspan class="dots">. </tspan><tspan class="key">Lines of Code:</tspan><tspan class="dots" id="loc_dots"> ......... </tspan><tspan class="value" id="loc_data">861,809</tspan><tspan class="fg"> ( </tspan><tspan class="add" id="loc_add">1,370,273++</tspan><tspan class="fg">,  </tspan><tspan class="del" id="loc_del">508,464--</tspan><tspan class="fg"> )</tspan></tspan>
 </text>
 </svg>
