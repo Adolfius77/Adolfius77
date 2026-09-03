@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,DejaVu Sans Mono,monospace" width="1080px" height="520px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Menlo'), local('DejaVu Sans Mono');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+.key   { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.dots  { fill: #616e7f; }
+.fg    { fill: #c9d1d9; }
+.add   { fill: #3fb950; }
+.del   { fill: #f85149; }
+.head  { fill: #ffa657; font-weight: bold; }
+.ascii { fill: #c9d1d9; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="1080px" height="520px" fill="#161b22" rx="15"/>
+<text x="15" y="100" class="ascii" font-family="ConsolasFallback,Consolas,Menlo,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10px">
+<tspan x="15" y="100"></tspan>
+<tspan x="15" y="112">                ###                 ##</tspan>
+<tspan x="15" y="124">                 ##  ###############:#</tspan>
+<tspan x="15" y="136">                 #:##::::::::::::::::#</tspan>
+<tspan x="15" y="148">               ##:::::::::::::::::::::##</tspan>
+<tspan x="15" y="160">              #:::::::::::::::::::::::::##</tspan>
+<tspan x="15" y="172">             #:::::::@@::::::::::@@@::::::##</tspan>
+<tspan x="15" y="184">             #:::::::@:::::@@@::::@::::::::#</tspan>
+<tspan x="15" y="196">            #::::::::::::@@@@@@@::::::::::::#</tspan>
+<tspan x="15" y="208">           #:::::::::::::@@@@@@::::::::::::::#</tspan>
+<tspan x="15" y="220">           #:::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="232">          #:::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="244">          #:::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="256">         #:::::::::::::::@@@@@@@@@::::::::::::#</tspan>
+<tspan x="15" y="268">         #:::::::::::::::::@@@@@::::::::::::::#</tspan>
+<tspan x="15" y="280">        #::::::::::::::::::@@@@@:::::::::::::::#</tspan>
+<tspan x="15" y="292">        #::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="304">        #::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="316">       #::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="328">       #::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="340">      #::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="352">      #:::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="364">     #::::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="376">     #:::::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="388">    #:::::::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="400">   #::::::::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="412">   #:::::::::::::::::::::::::::::::::::::::::::::::::#</tspan>
+<tspan x="15" y="424">  ####################################################</tspan>
+</text>
+<text x="380" y="40" font-family="ConsolasFallback,Consolas,Menlo,&apos;DejaVu Sans Mono&apos;,monospace">
+<tspan x="380" y="40"><tspan class="head">adolfius77@github</tspan><tspan class="dots"> ────────────────────────────────────────────</tspan></tspan>
+<tspan x="380" y="61"><tspan class="dots">. </tspan><tspan class="key">OS:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">Windows 11, Linux</tspan></tspan>
+<tspan x="380" y="82"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots" id="age_dots"> .......................... </tspan><tspan class="value" id="age_data">0 years, 0 months, 0 days</tspan></tspan>
+<tspan x="380" y="103"><tspan class="dots">. </tspan><tspan class="key">Host:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">Instituto Tecnologico de Sonora</tspan></tspan>
+<tspan x="380" y="124"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">Estudiante de Ing. de Software</tspan></tspan>
+<tspan x="380" y="145"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">VS Code, IntelliJ IDEA, NetBeans</tspan></tspan>
+<tspan x="380" y="166"><tspan class="dots">.</tspan></tspan>
+<tspan x="380" y="187"><tspan class="dots">. </tspan><tspan class="key">Languages:</tspan><tspan class="dots" id="lang_dots"> ........................ </tspan><tspan class="value" id="lang_data">Java, Python, JavaScript</tspan></tspan>
+<tspan x="380" y="208"><tspan class="dots">. </tspan><tspan class="key">Frameworks:</tspan><tspan class="dots"> ................. </tspan><tspan class="value">Spring Boot, Jakarta EE, React</tspan></tspan>
+<tspan x="380" y="229"><tspan class="dots">. </tspan><tspan class="key">Databases:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">MySQL, MongoDB</tspan></tspan>
+<tspan x="380" y="250"><tspan class="dots">. </tspan><tspan class="key">Tools.DevOps:</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">Git, Docker, Maven</tspan></tspan>
+<tspan x="380" y="271"><tspan class="dots">. </tspan><tspan class="key">Learning:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">Ciberseguridad, Calidad de Software</tspan></tspan>
+<tspan x="380" y="292"><tspan class="dots">.</tspan></tspan>
+<tspan x="380" y="313"><tspan class="head">- Contact</tspan><tspan class="dots"> ────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="380" y="334"><tspan class="dots">. </tspan><tspan class="key">Email:</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">ortega.adolfo.cb37@gmail.com</tspan></tspan>
+<tspan x="380" y="355"><tspan class="dots">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="dots"> . </tspan><tspan class="value">linkedin.com/in/jose-adolfo-ortega-ruiz-29a043368</tspan></tspan>
+<tspan x="380" y="376"><tspan class="dots">. </tspan><tspan class="key">GitHub:</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">github.com/Adolfius77</tspan></tspan>
+<tspan x="380" y="397"><tspan class="dots">.</tspan></tspan>
+<tspan x="380" y="418"><tspan class="head">- GitHub Stats</tspan><tspan class="dots"> ───────────────────────────────────────────────</tspan></tspan>
+<tspan x="380" y="439"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots" id="repo_dots"> ....................... </tspan><tspan class="value" id="repo_data">0</tspan><tspan class="fg"> {Contributed: </tspan><tspan class="value" id="contrib_data">0</tspan><tspan class="fg">} | Stars: </tspan><tspan class="value" id="star_data">0</tspan></tspan>
+<tspan x="380" y="460"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots" id="commit_dots"> .................................. </tspan><tspan class="value" id="commit_data">0</tspan><tspan class="fg"> | Followers: </tspan><tspan class="value" id="follower_data">0</tspan></tspan>
+<tspan x="380" y="481"><tspan class="dots">. </tspan><tspan class="key">Lines of Code:</tspan><tspan class="dots" id="loc_dots"> ............................. </tspan><tspan class="value" id="loc_data">0</tspan><tspan class="fg"> ( </tspan><tspan class="add" id="loc_add">0++</tspan><tspan class="fg">,  </tspan><tspan class="del" id="loc_del">0--</tspan><tspan class="fg"> )</tspan></tspan>
+</text>
+</svg>
