@@ -13,10 +13,15 @@ from datetime import datetime, timezone
 API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("ACCESS_TOKEN", "")
 COUNT_LOC = True     # ponlo en False si el workflow tarda demasiado
-MAX_LANGS = 5
+MAX_LANGS = 6     # el sexto es SCSS; con 5 se quedaba fuera
+
+# Cuentas viejas o alternas tuyas. GitHub atribuye cada commit al login dueno
+# del correo con que se firmo, asi que los commits hechos con otra cuenta no
+# aparecen bajo USER. Agrega aqui esos logins para que tambien se sumen.
+ALSO_COUNT = []
 
 
-def get(path, retries=3):
+def get(path, retries=3, with_headers=False):
     url = path if path.startswith("http") else API + path
     req = urllib.request.Request(url)
     req.add_header("Accept", "application/vnd.github+json")
@@ -31,17 +36,36 @@ def get(path, retries=3):
                 if r.status == 202:            # GitHub esta calculando las stats
                     time.sleep(3 * (attempt + 1))
                     continue
-                return json.loads(body) if body else None
+                data = json.loads(body) if body else None
+                return (data, r.headers) if with_headers else data
         except urllib.error.HTTPError as e:
             if e.code in (403, 429) and attempt < retries - 1:
                 time.sleep(5 * (attempt + 1))
                 continue
             print("  ! HTTP %s en %s" % (e.code, url), file=sys.stderr)
-            return None
+            return (None, {}) if with_headers else None
         except Exception as e:
             print("  ! %s en %s" % (e, url), file=sys.stderr)
-            return None
-    return None
+            return (None, {}) if with_headers else None
+    return (None, {}) if with_headers else None
+
+
+def commits_in(full_name, who):
+    """Commits de `who` en la rama principal de `full_name`.
+
+    Respaldo para cuando /search/commits no esta disponible (tokens con alcance
+    de repo lo rechazan). Pide una pagina de un commit y lee el numero de la
+    ultima pagina en la cabecera Link: es el total, en una sola peticion. Solo
+    ve los repos que se le pasen, asi que cuenta menos que la busqueda.
+    """
+    path = "/repos/%s/commits?author=%s&per_page=1" % (full_name, who)
+    data, headers = get(path, with_headers=True)
+    if data is None:
+        return 0
+    for part in (headers.get("Link", "") if headers else "").split(","):
+        if 'rel="last"' in part:
+            return int(part.split("page=")[-1].split(">")[0])
+    return len(data)
 
 
 def fetch(user):
@@ -70,10 +94,15 @@ def fetch(user):
             langs.update(data)
 
     print("-> commits")
-    commits = None
-    data = get("/search/commits?q=author:%s&per_page=1" % user)
-    if data and "total_count" in data:
-        commits = data["total_count"]
+    commits = 0
+    for who in [user] + ALSO_COUNT:
+        data = get("/search/commits?q=author:%s&per_page=1" % who)
+        if data and "total_count" in data:
+            commits += data["total_count"]   # incluye repos que no son tuyos
+        else:
+            print("  (sin /search: cuento repo por repo)")
+            for r in repos:
+                commits += commits_in(r["full_name"], who)
 
     additions = deletions = 0
     if COUNT_LOC:
@@ -82,8 +111,9 @@ def fetch(user):
             data = get("/repos/%s/stats/contributors" % r["full_name"])
             if not data:
                 continue
+            mine = [w.lower() for w in [user] + ALSO_COUNT]
             for cont in data:
-                if (cont.get("author") or {}).get("login", "").lower() == user.lower():
+                if (cont.get("author") or {}).get("login", "").lower() in mine:
                     for w in cont.get("weeks", []):
                         additions += w.get("a", 0)
                         deletions += w.get("d", 0)

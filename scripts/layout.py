@@ -20,7 +20,7 @@ MANUAL = {
     "Frameworks": "Spring Boot, Jakarta EE, React",
     "Databases": "MySQL, MongoDB",
     "Tools.DevOps": "Git, Docker, Maven",
-    "Learning": "Ciberseguridad, Calidad de Software",
+    "Learning": "TypeScript",
     "Email": "ortega.adolfo.cb37@gmail.com",
     "LinkedIn": "linkedin.com/in/jose-adolfo-ortega-ruiz-29a043368",
 }

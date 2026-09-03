@@ -7,9 +7,11 @@ recalculando los puntos para que el valor siga alineado a la derecha. Asi
 puedes editar colores, posiciones o el arte a mano y esto no te lo borra.
 
     GITHUB_TOKEN=xxx python3 scripts/update_svg.py
-    python3 scripts/update_svg.py --mock     # prueba sin llamar a la API
+    python3 scripts/update_svg.py --mock            # prueba sin llamar a la API
+    python3 scripts/update_svg.py --stats x.json    # aplica valores ya medidos
 """
 
+import json
 import os
 import sys
 
@@ -54,7 +56,16 @@ def patch(filename, stats):
     print("actualizado: " + filename)
 
 
+def chosen_stats(argv):
+    if "--mock" in argv:
+        return MOCK
+    if "--stats" in argv:
+        with open(argv[argv.index("--stats") + 1], encoding="utf-8") as f:
+            return json.load(f)
+    return github_stats.fetch(L.USER)
+
+
 if __name__ == "__main__":
-    stats = MOCK if "--mock" in sys.argv else github_stats.fetch(L.USER)
+    stats = chosen_stats(sys.argv)
     for name in L.PALETTES:
         patch(name, stats)
