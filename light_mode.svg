@@ -51,7 +51,7 @@ text, tspan { white-space: pre; }
 <text x="380" y="40" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
 <tspan x="380" y="40"><tspan class="head">adolfius77@github</tspan><tspan class="dots"> ────────────────────────────────────────────</tspan></tspan>
 <tspan x="380" y="61"><tspan class="dots">. </tspan><tspan class="key">OS:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">Windows 11, Linux</tspan></tspan>
-<tspan x="380" y="82"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots" id="age_dots"> .......................... </tspan><tspan class="value" id="age_data">1 years, 9 months, 3 days</tspan></tspan>
+<tspan x="380" y="82"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots" id="age_dots"> .......................... </tspan><tspan class="value" id="age_data">1 years, 9 months, 4 days</tspan></tspan>
 <tspan x="380" y="103"><tspan class="dots">. </tspan><tspan class="key">Host:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">Instituto Tecnologico de Sonora</tspan></tspan>
 <tspan x="380" y="124"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">Estudiante de Ing. de Software</tspan></tspan>
 <tspan x="380" y="145"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">VS Code, IntelliJ IDEA, NetBeans</tspan></tspan>
@@ -69,7 +69,7 @@ text, tspan { white-space: pre; }
 <tspan x="380" y="397"><tspan class="dots">.</tspan></tspan>
 <tspan x="380" y="418"><tspan class="head">- GitHub Stats</tspan><tspan class="dots"> ───────────────────────────────────────────────</tspan></tspan>
 <tspan x="380" y="439"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots" id="repo_dots"> ...................... </tspan><tspan class="value" id="repo_data">47</tspan><tspan class="fg"> {Contributed: </tspan><tspan class="value" id="contrib_data">1</tspan><tspan class="fg">} | Stars: </tspan><tspan class="value" id="star_data">7</tspan></tspan>
-<tspan x="380" y="460"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots" id="commit_dots"> ................................ </tspan><tspan class="value" id="commit_data">778</tspan><tspan class="fg"> | Followers: </tspan><tspan class="value" id="follower_data">5</tspan></tspan>
+<tspan x="380" y="460"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots" id="commit_dots"> ................................ </tspan><tspan class="value" id="commit_data">778</tspan><tspan class="fg"> | Followers: </tspan><tspan class="value" id="follower_data">6</tspan></tspan>
 <tspan x="380" y="481"><tspan class="dots">. </tspan><tspan class="key">Lines of Code:</tspan><tspan class="dots" id="loc_dots"> ......... </tspan><tspan class="value" id="loc_data">861,829</tspan><tspan class="fg"> ( </tspan><tspan class="add" id="loc_add">1,370,678++</tspan><tspan class="fg">,  </tspan><tspan class="del" id="loc_del">508,849--</tspan><tspan class="fg"> )</tspan></tspan>
 </text>
 </svg>
