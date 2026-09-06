@@ -51,7 +51,7 @@ text, tspan { white-space: pre; }
 <text x="380" y="40" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace">
 <tspan x="380" y="40"><tspan class="head">adolfius77@github</tspan><tspan class="dots"> ────────────────────────────────────────────</tspan></tspan>
 <tspan x="380" y="61"><tspan class="dots">. </tspan><tspan class="key">OS:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">Windows 11, Linux</tspan></tspan>
-<tspan x="380" y="82"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots" id="age_dots"> .......................... </tspan><tspan class="value" id="age_data">1 years, 9 months, 5 days</tspan></tspan>
+<tspan x="380" y="82"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots" id="age_dots"> .......................... </tspan><tspan class="value" id="age_data">1 years, 9 months, 6 days</tspan></tspan>
 <tspan x="380" y="103"><tspan class="dots">. </tspan><tspan class="key">Host:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">Instituto Tecnologico de Sonora</tspan></tspan>
 <tspan x="380" y="124"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">Estudiante de Ing. de Software</tspan></tspan>
 <tspan x="380" y="145"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">VS Code, IntelliJ IDEA, NetBeans</tspan></tspan>
